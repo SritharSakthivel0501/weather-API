@@ -1,0 +1,48 @@
+span{
+    color: rgb(255, 251, 0);
+}
+.contenner {
+    margin: 69px 10px 10px 424px;
+    text-align: center;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 356px;
+    background-color: white;
+}
+input.search {
+    font-size: 15px;
+    margin-top: 42px;
+    height: 31px;
+    width: 207px;
+}
+button#sends {
+    /* position: absolute; */
+    height: 38px;
+    width: 72px;
+    border: none;
+    background-color: rgb(183, 134, 228);
+    margin-top: 41px;
+    
+}
+body{
+    background-color: rgb(183, 134, 228);
+}
+.temp{
+    display: flex;
+}
+p.temp_max {
+    margin-left: 37px;
+}
+p.temp_min {
+    margin-left: 46px;
+}
+p.wind {
+    margin-left: 32px;
+}
+img {
+    height: 39px;
+    width: 36px;
+    position: absolute;
+    top: 328px;
+}
